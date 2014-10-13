@@ -2,4 +2,8 @@
 #on linux
 java -cp "classes/:lib/junit-4.11.jar:lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore is.ru.stringcalculator.CalculatorTest 
 #on windows
+<<<<<<< HEAD
 #java -cp "classes/;lib/junit-4.11.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore is.ru.stringcalculator.CalculatorTest 
+=======
+#java -cp "classes/;lib/junit-4.11.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore is.ru.stringcalculator.CalculatorTest 
+>>>>>>> a9c2a50f07c1104db58fdc4ced8baafd859b3092
