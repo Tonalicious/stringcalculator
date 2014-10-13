@@ -17,11 +17,7 @@ public class Calculator {
 	}
 
 	private static String[] splitNumbers(String numbers){
-	    if(numbers.contains(",")) {
-	    	return numbers.split(",");
-	    } else {
-	    	return numbers.split("\n");
-	    }
+	    return numbers.split(",|\n");
 	}
 
     private static int sum(String[] numbers){
