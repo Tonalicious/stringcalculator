@@ -37,8 +37,11 @@ public class Calculator {
         	
         	if(numberToInt < 0) {
         		al.add(numberToInt);
+        	} else if(numberToInt <= 1000) {
+        		total += numberToInt;
+        	} else {
+        		continue;
         	}
-		    total += numberToInt;
 		}
 		
 		if(al.size() != 0) {
