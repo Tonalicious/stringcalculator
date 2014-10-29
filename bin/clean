@@ -1,6 +1,3 @@
 #!/bin/bash
 
-if [ -d .gradle ]; then 
-  rm -rf .gradle 
-fi
 ./gradlew clean
