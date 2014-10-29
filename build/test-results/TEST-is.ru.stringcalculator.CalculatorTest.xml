@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="is.ru.stringcalculator.CalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2014-10-29T15:24:41" hostname="Nonni8" time="0.047">
+  <properties/>
+  <testcase name="testNewLinesTwoNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.047"/>
+  <testcase name="testDiffrentDelimiter" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testNegativeNumbersThrowException" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testMultipleNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testMultipleDelimiter" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testEmptyString" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testDelimiterOfAnyLength" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testNewLinesMultipleNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testMultipleDelimiterOfAnyLength" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testTwoNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testOneNumber" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testNumbersBiggerThan1000Ignored" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
