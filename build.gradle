@@ -9,6 +9,19 @@
 
 // Apply the java plugin to add support for Java
 apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "is.ru.tictactoe.GameLogic"
+
+run {
+    standardInput = System.in
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'is.ru.tictactoe.GameLogic'
+    }
+}
 
 // In this section you declare where to find the dependencies of your project
 repositories {
