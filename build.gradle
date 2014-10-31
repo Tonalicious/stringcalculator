@@ -11,7 +11,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = "is.ru.tictactoe.GameLogic"
+mainClassName = "is.ru.stringcalculator.Calculator"
 
 run {
     standardInput = System.in
