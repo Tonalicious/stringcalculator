@@ -19,7 +19,7 @@ run {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'is.ru.tictactoe.GameLogic'
+        attributes 'Main-Class': 'is.ru.stringcalculator.Calculator'
     }
 }
 
